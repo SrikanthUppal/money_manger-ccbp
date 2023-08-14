@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border: 1px solid #d7dfe9;
+  list-style-type: none;
+  height: 48px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.list-cell {
+  width: 30%;
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 14px;
+  border: none;
+}
+.button {
+  background-color: #ffffff;
+  border: none;
+}
+.delete-icon {
+  width: 16px;
+  height: 16px;
+}
